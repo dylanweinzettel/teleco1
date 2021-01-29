@@ -15,10 +15,7 @@ time = np.linspace(0, 1e-9, 1000)
 
 # Para calcular un punto una onda senoidal, usen np.sin()
 
-for freq in frecuencias:
-
-    plt.plot(time, np.sin(2*pi*freq*time), label='F={:.1e} Hz | \u03BB={:.0e} m'.format(freq, c/freq))
-
+# TODO
 
 plt.title('Ondas')      # Titulo del grafico
 plt.xlabel('t [s]')     # Etiqueta para el eje X
