@@ -1,2 +1,2 @@
-# teleco1
-Repositorio general de Telecomunicaciones 1 (5to año).
+# Telecomunicaciones I
+Repositorio general de Telecomunicaciones I (5to año).
