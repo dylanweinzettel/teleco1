@@ -54,6 +54,7 @@ Materia: Telecomunicaciones I
 - Pueden cambiar la variable `gif_name` para que cada vez que corran el programa, el `.gif` se guarde con otro nombre.
 - La variable `interval` en `ms` la pueden variar para que la animación sea mas fluida o lenta.
 - Para guardar la longitud de la cavidad, declaren una variable `l`. Muchas cosas en el programa dependen de eso.
+- Recuerden de ponerle un multiplicador a `t` en la expresión de la onda para que las variaciones no sean muy erráticas. Sugiero que lo multipliquen por `.01`. 
 
 ## Como entregar
 
