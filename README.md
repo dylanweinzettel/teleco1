@@ -43,12 +43,17 @@ from numpy import sin, cos, tan
 ```
 
 - Tengan en cuenta que las funciones trigonométricas trabajan en `radianes` no en `grados`.
+- La ley que rige la refracción es la `Ley de Snell` y se expresa como:
+
+<div align=center>
+  <img src="https://render.githubusercontent.com/render/math?math=n_a sin(\theta_a) = n_b sin(\theta_b)">
+</div>
 
 ## Ejemplo
 
 El resultado debe ser parecido a esto:
 
-![ejemplo](ejemplo,png)
+![ejemplo](./ejemplo,PNG)
 
 Los datos son:
 - `na` = 1.15
@@ -60,7 +65,7 @@ Pongan el `README.md`, la imagen y el `refraccion.py` en una carpetan, abran una
 
 ```
 git init
-git add README.md refraccion.py img.png
+git add README.md refraccion.py img.PNG
 git commit -m "Initial commit"
 git checkout -b teleco1/2021/optica/refraccion
 git push https://github.com/trq20/USERNAME.git teleco1/2021/optica/refraccion
