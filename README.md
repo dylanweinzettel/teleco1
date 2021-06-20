@@ -53,7 +53,7 @@ from numpy import sin, cos, tan
 
 El resultado debe ser parecido a esto:
 
-![ejemplo](./ejemplo,PNG)
+![ejemplo](ejemplo.png)
 
 Los datos son:
 - `na` = 1.15
