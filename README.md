@@ -21,7 +21,7 @@ Materia: Telecomunicaciones I
 Datos:
 - `ϴa`
 - `na`
-- `nb
+- `nb`
 
 ## Ejemplo nb > na
 [imagen obtenida]
