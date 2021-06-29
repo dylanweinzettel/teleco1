@@ -3,7 +3,8 @@
 Escribir un programa que:
 
 - A partir de un ángulo de incidencia (`ϴa`) y los índices de refracción de dos materiales (`na` y `nb`), grafique un haz incidente, su reflejado y refractado correspondiente.
-- Muestre el valor de los ángulos incidente y refractado (`ϴa` y `ϴb`) como label de cada haz. Los valores deben estar en grados.
+- Si el ángulo de incidencia supera al `ϴcrit` entonces debe graficarse la incidente y reflejada.
+- Muestre el valor de los ángulos incidente y refractado (`ϴa` y `ϴb`) o incidente y crítico (`ϴa` y `ϴcrit`) según sea apropiado como label de cada haz. Los valores deben estar en grados.
 - Hacer dos pruebas, una para `na > nb` y otra para `nb > na` y guardar los gráficos resultantes.
 
 Luego, hacer un `README.md` con lo siguiente:
